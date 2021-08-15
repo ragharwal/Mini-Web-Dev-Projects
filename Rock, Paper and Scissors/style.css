@@ -1,0 +1,14 @@
+body {
+    background-color: indianred !important;
+}
+.container {
+    border: 2px solid black;
+    text-align: center;
+}
+.flex-box-rps {
+    display: flex;
+    justify-content: space-around;
+}
+.flex-box-rps img:hover {
+    box-shadow: 0px 10px 50px  rgb(168, 243, 233);
+}

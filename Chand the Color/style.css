@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(120, 241, 235) !important;
+}
+.container {
+    border: 10px solid black;
+    text-align: center;
+}
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid blue;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
